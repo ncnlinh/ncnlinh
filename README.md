@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+[![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncnlinh&count_private=true&show_icons=true)](https://github.com/ncnlinh)
+
+[![Linh's Tropies](https://github-profile-trophy.vercel.app/?username=ncnlinh&margin-w=5&margin-h=5&column=5&no-bg=true)](https://github.com/ncnlinh)
 <!--
 **ncnlinh/ncnlinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
